@@ -20,7 +20,6 @@ export default function App() {
               <a href="http://qr.kakao.com/talk/IUz_GDSbPlmQ97pFwP84l1vXQag-">KakaoTalk</a>
             </div>
           </div>
-
         </div>
 
         <div className="basis-2/3 h-min my-auto">
