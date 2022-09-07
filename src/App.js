@@ -7,7 +7,7 @@ export default function App() {
         <div className="basis-1/3 h-4/5 bg-gray-50 dark:bg-gray-800 rounded-xl shadow-2xl ml-4 mt-10 my-24 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300">
 
           <div className=" flex flex-col h-5/6 dark:text-white">
-            <img src="img/my-photo.jpg" alt="My" className="w-40 h-40 mx-auto mt-8 object-cover rounded-full" />
+            <img src="img/my-photo.jpg" alt="profile photo" className="w-40 h-40 mx-auto mt-8 object-cover rounded-full" />
             <div className="text-center text-xl font-bold mt-6">전현우</div>
             <div className="text-center text-xl font-bold mb-2">Hyunwoo Jeon</div>
           </div>
